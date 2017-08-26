@@ -4,7 +4,7 @@
 // @version      1.0.1
 // @description  おにいさんがうたいます
 // @author       neziri_wasabi (yuzu_1203)
-// @match        https://knzkoniisan.m.to/web/*
+// @match        https://friends.nico/web/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
 // @license       MIT License
 // ==/UserScript==
