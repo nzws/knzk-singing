@@ -10,7 +10,7 @@
 **存知のバグ**  
 * なんかはみ出る  
 * jQuery使ってる  
-* **Firefoxで止められない**  
+* ~~Firefoxで止められない~~  
 * **耳がおかしくなる**
 
 [Greasy Fork](https://greasyfork.org/ja/scripts/32612-knzk-singing)   
