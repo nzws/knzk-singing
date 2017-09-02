@@ -5,14 +5,13 @@
 **このスクリプトを使用したことで問題が発生してもねじりわさびや神崎おにいさんは一切責任を取りませんので自己責任で使用して下さい。**   
 [公式スクリプトになりました](https://knzkoniisan.m.to/@knzk/5903)
 
-
+______
 __インストールにはTampermonkey等のユーザースクリプトマネージャーが必要です（無料）。導入方法は[こちら](https://greasyfork.org/ja/help/installing-user-scripts)__    
 （もしインストールボタンをおした時に、真っ白な背景に意味不明なプログラムが出てきたら導入されていません。）
-
+______
 
 **存知のバグ**  
-* なんかはみ出る  
-* **Firefoxで止められない**  
+* Firefoxで止められない  
 * **耳がおかしくなる**
 
 [Greasy Fork](https://greasyfork.org/ja/scripts/32612-knzk-singing)   
