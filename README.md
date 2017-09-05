@@ -18,4 +18,4 @@ ______
 [Github](https://github.com/yuzulabo/knzk-singing)
 
 ### 連絡先
-[ねじりわさび(yuzu_1203)](https://knzkoniisan.m.to/@y)
+[ねじりわさび(yuzu_1203)](https://knzk.me/@y)
