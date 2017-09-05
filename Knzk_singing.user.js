@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Knzk_singing
 // @namespace    https://github.com/yuzulabo
-// @version      1.1.3
+// @version      1.1.4
 // @description  おにいさんがうたいます
 // @author       neziri_wasabi (yuzu_1203)
-// @match        https://knzkoniisan.m.to/*
+// @match        https://knzk.me/*
 // @match        https://friends.nico/*
 // @license       MIT License
 // ==/UserScript==
