@@ -10,8 +10,7 @@ __インストールにはTampermonkey等のユーザースクリプトマネー
 （もしインストールボタンをおした時に、真っ白な背景に意味不明なプログラムが出てきたら導入されていません。）
 ______
 
-**存知のバグ**    
-* **耳がおかしくなる**
+**耳がおかしくなるのは仕様でありバグではないのでどうなっても知りません**
 
 [Greasy Fork](https://greasyfork.org/ja/scripts/32612-knzk-singing)   
 [Github](https://github.com/yuzulabo/knzk-singing)
