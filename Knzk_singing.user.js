@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Knzk_singing
 // @namespace    https://github.com/yuzulabo
-// @version      1.1.4
+// @version      1.1.5
 // @description  おにいさんがうたいます
 // @author       neziri_wasabi (yuzu_1203)
 // @match        https://knzk.me/*
@@ -26,5 +26,7 @@
     audio_elem.setAttribute('autoplay', '1');
     audio_elem.setAttribute('loop', '1');
 
-    nav[0].appendChild(audio_elem);
+    window.onload = function () {
+        nav[0].appendChild(audio_elem);
+    };
 })();
